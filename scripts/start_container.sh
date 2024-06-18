@@ -7,4 +7,4 @@ docker pull jayalakshmii/simple-python-app
 
 # Run the Docker image as a container
 docker run -d -p 5000:5000 jayalakshmii/simple-python-app
-#docker run -d -p 5000:5000 abhishekf5/simple-python-flask-app
+# docker run -d -p 5000:5000 abhishekf5/simple-python-flask-app
